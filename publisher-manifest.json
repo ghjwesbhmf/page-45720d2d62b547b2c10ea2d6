@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2a7f834c644784d8933bf1e7",
+  "owner": "ghjwesbhmf",
+  "repo": "page-45720d2d62b547b2c10ea2d6",
+  "title": "星宝",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "45720d2d62b547b2c10ea2d6",
+      "a": "星宝",
+      "b": "稳定全球clash加速器",
+      "entity": "星宝",
+      "brand": "星宝",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d05d60b3fe1215bf9cb7b8352934131245cd93881a7572602959b60b8e51a3df",
+      "content": {
+        "primary_entity": "星宝",
+        "keyword1": "星宝",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、Android、iOS 与路由器各有对应版本。",
+          "AI_CLIENTS_TITLE": "客户端适配",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，按文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开启星宝加速",
+          "AI_DESCRIPTION": "，星宝提供基础版、旗舰版和团队版三档套餐，月付从 ¥15 起，年付从 ¥150 起。基础版适合轻度浏览，旗舰版支持 5 台设备并优化游戏线路，团队版面向多设备与定制路由需求。客户端覆盖主流桌面与移动系统，按设备选择相应版本，导入订阅后即可使用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期三个角度判断适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合日常浏览与轻度流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速与优先工单。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "入门选择",
+          "AI_FEATURE_TITLE_2": "进阶选择",
+          "AI_FEATURE_TITLE_3": "多人选择",
+          "AI_GUIDE_INTRO": "三步完成从选择到使用的准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "星宝面向需要稳定连接的用户提供三档套餐，覆盖桌面、移动与路由器设备。按设备数量与每月流量选择合适版本，配合对应客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "星宝加速，三档套餐按需选",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "专线游戏加速优化",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版平衡流量与设备数，团队版面向多人和定制路由需求。年付方案更划算，可按月付或按年付灵活选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数量，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认所用设备的系统类型与版本要求，选择对应的客户端。",
+          "AI_STEP_TEXT_3": "依照客户端文档完成订阅导入，保存配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "星宝全球加速",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机与电脑组合；如果还需平板或更多终端，可选旗舰版 5 台设备档位。",
+          "AI_FAQ_ANSWER_2": "订阅地址通常在购买后由账户页面提供，将地址导入所选客户端即可。不同客户端导入入口不同，可参考对应客户端文档。",
+          "AI_FAQ_ANSWER_3": "月付适合短期使用，年付更划算。基础版年付 ¥150/年，旗舰版年付 ¥350/年，团队版年付 ¥850/年，可按实际需要选择周期。",
+          "AI_FAQ_ANSWER_4": "旗舰版和团队版面向更高流量与更多设备场景。旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备，并支持企业定制路由。",
+          "AI_FAQ_ANSWER_5": "在订阅配置中填入星宝提供的订阅地址，保存后更新节点列表，再选择线路连接即可。路由器端建议先在电脑上确认订阅可用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "如何获取星宝订阅地址？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版主要差别在哪里？",
+          "AI_FAQ_QUESTION_5": "在路由器上怎么导入订阅？",
+          "AI_FAQ_TITLE": "订阅与套餐常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--ytoo-3v4gm16f.com",
+    "host": "xn--ytoo-3v4gm16f.com"
+  },
+  "file_hashes": {
+    "index.html": "b4dabe38a1ae84de37895fa11ef64a9bd57e2b71f366773a3495f65cad32bd9c",
+    "sitemap.xml": "6262995fc042055db6fd75f414103a14af6223c27f09e90ef6ce7191b8566237",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "49b98861670f0d317efa3b243c6759d3e89c55abc5912bdcae563aaf95c3af3e",
+    "robots.txt": "376cbf221b8408d61ed7df53b6d9f166c1361011a182ffe0dc8f8e8cc03667a0",
+    "b3499a20bbbedd331db012aecaa9c470.txt": "ab58d235dcb14a73d57422628271999d71f13e56d4cea014f826a500111009d4"
+  },
+  "revision": "9f85b65b71e591047736531ab2b91ff915ede26662baadc023e202496d4e03eb"
+}
